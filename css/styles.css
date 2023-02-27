@@ -93,7 +93,12 @@ body{
   align-items: center;
   }
 
-  #details-container #umidity{
+  #description {
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+
+  #details-container #humidity{
      border-right: 1px solid  #fff;
      margin: .6rem;
      padding: .6rem;
